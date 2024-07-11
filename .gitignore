@@ -1,0 +1,5 @@
+
+.tscircuit
+*.__tmp_entrypoint.tsx
+dist
+node_modules
